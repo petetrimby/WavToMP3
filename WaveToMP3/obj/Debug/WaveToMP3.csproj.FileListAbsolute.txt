@@ -1,0 +1,7 @@
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\bin\Debug\WaveToMP3.exe.config
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\bin\Debug\WaveToMP3.exe
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\bin\Debug\WaveToMP3.pdb
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\obj\Debug\WaveToMP3.exe
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\obj\Debug\WaveToMP3.pdb
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\bin\Debug\Exceptionless.dll
+C:\Shared\SourceCode\Utilities\WaveToMP3\WaveToMP3\bin\Debug\Exceptionless.xml
